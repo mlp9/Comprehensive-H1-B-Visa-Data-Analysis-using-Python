@@ -60,3 +60,9 @@ level. This makes it easier to work with.
 
 ● Text processing: We replace names bi-weekly, month and week by year as we convert
 all the wages to annual rate.
+
+## Data Analysis
+We are going to use interactive plots including bar plots, line charts, histograms to display
+statistics descriptions, and maps to show geographical results allowing us to hover over the plot
+for more details. For example, to show the number of applications per state, we will apply the bar
+chart to show the numbers before using a heat map to capture results in every state.
