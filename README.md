@@ -66,3 +66,5 @@ We are going to use interactive plots including bar plots, line charts, histogra
 statistics descriptions, and maps to show geographical results allowing us to hover over the plot
 for more details. For example, to show the number of applications per state, we will apply the bar
 chart to show the numbers before using a heat map to capture results in every state.
+
+Our jupyter notebook also received the “best notebook” badge from our professor as we did a good job documenting the notebook along with the code. 
